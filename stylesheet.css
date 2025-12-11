@@ -1,0 +1,22 @@
+.Home  h2{
+color: rgb(13, 5, 250);
+text-indent: 50%;
+
+
+
+}
+.Home h1{
+color: rgb(255, 20, 20);
+text-align: center;
+justify-content: center;
+font-size: 45px;
+
+}
+.Home{
+
+    background-color: rgb(221, 250, 32);
+}
+.Home p{
+    font-family: cursive;
+    
+}
